@@ -94,7 +94,7 @@ export default function Timeline() {
   }
 
   return (
-    <div className="w-full mx-auto py-6 md:py-12 px-2 md:px-4">
+    <div className="w-full mx-auto my-0 py-0 md:py-0 px-2 md:px-4">
       <div className="relative max-w-[1300px] mx-auto pl-12 sm:pl-16 md:pl-20 pr-8 md:pr-16">
         <div className="absolute left-0 top-6 flex flex-col gap-1 md:gap-2 z-20">
           <Button
